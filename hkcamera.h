@@ -10,7 +10,7 @@
 #include "HCNetSDK.h"
 #include "PlayM4.h"
 #include "LinuxPlayM4.h"
-
+#include <list>
 
 class HkCamera
 {
